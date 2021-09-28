@@ -2,8 +2,8 @@
 
 Sample ecoommerce project using MERN Stack
 
-// Number of pages 
-/*
+Number of pages :
+
     1. homepage 
     2. Login
     3. registration 
@@ -11,5 +11,5 @@ Sample ecoommerce project using MERN Stack
     5. cart page 
     6. checkout page 
     7. paypal integration 
-*/
+
 
